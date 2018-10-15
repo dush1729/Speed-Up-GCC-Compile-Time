@@ -1,4 +1,4 @@
-x=$(g++ -std=c++11 01.cpp -H 2>&1 | grep bits/stdc++.h)
+x=$(g++ -std=c++11 $1 -H 2>&1 | grep bits/stdc++.h)
 directory=`echo $x | awk '{ print $NF }'`
 
 mkdir bits
