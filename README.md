@@ -1,5 +1,5 @@
-# Speed-Up-GCC-Complie-Time
-Script to speed gcc complie time which uses header file bits/stdc++.h
+# Speed-Up-GCC-Compile-Time
+Script to speed gcc compile time which uses header file bits/stdc++.h
 
 # How to Run
 1. Copy script.sh to your C++ project directory
